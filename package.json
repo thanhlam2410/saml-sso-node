@@ -1,5 +1,5 @@
 {
-  "name": "users",
+  "name": "saml-login",
   "version": "1.0.0",
   "description": "nodejs typescript seed project",
   "main": "./dist/main.js",
